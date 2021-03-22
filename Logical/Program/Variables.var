@@ -1,0 +1,5 @@
+VAR
+	driveSM : FB_DriveSM := (0); (*Variable motor control*)
+	doorSM : FB_DoorSM := (0); (*Gate control variable*)
+	ledSM : FB_LedSM := (0); (*Indicator control variable*)
+END_VAR
